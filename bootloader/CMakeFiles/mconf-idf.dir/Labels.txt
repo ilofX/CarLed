@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/filippo/Documents/esp/hello_world/build/bootloader/CMakeFiles/mconf-idf
+/home/filippo/Documents/esp/hello_world/build/bootloader/CMakeFiles/mconf-idf.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/CMakeFiles/mconf-idf-complete.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/filippo/Documents/esp/hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule

@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/filippo/Documents/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/filippo/Documents/esp/hello_world/build/bootloader",
+    "config_file":        "/home/filippo/Documents/esp/hello_world/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.0-dev-1443-g39f090a4f-dirty",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/filippo/Documents/esp/esp-idf/components/efuse/Kconfig;/home/filippo/Documents/esp/esp-idf/components/esp32/Kconfig;/home/filippo/Documents/esp/esp-idf/components/esp_common/Kconfig;/home/filippo/Documents/esp/esp-idf/components/log/Kconfig;/home/filippo/Documents/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/filippo/Documents/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/filippo/Documents/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/filippo/Documents/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/filippo/Documents/esp/esp-idf/components/bootloader", "/home/filippo/Documents/esp/esp-idf/components/bootloader_support", "/home/filippo/Documents/esp/esp-idf/components/efuse", "/home/filippo/Documents/esp/esp-idf/components/esp32", "/home/filippo/Documents/esp/esp-idf/components/esp_common", "/home/filippo/Documents/esp/esp-idf/components/esp_rom", "/home/filippo/Documents/esp/esp-idf/components/esptool_py", "/home/filippo/Documents/esp/esp-idf/components/log", "/home/filippo/Documents/esp/esp-idf/components/bootloader/subproject/main", "/home/filippo/Documents/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/filippo/Documents/esp/esp-idf/components/partition_table", "/home/filippo/Documents/esp/esp-idf/components/soc", "/home/filippo/Documents/esp/esp-idf/components/spi_flash", "/home/filippo/Documents/esp/esp-idf/components/xtensa", "" ]
+}
