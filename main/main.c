@@ -35,7 +35,7 @@ void app_main(void){
 	u8g2_esp32_hal_init(u8g2_esp32_hal);
 
 	u8g2_t u8g2; // a structure which will contain all the data for one display
-	u8g2_Setup_sh1106_128x64_noname_2( //U8G2_SSD1306_128X64_NONAME_F_SW_I2C
+	u8g2_Setup_ssd1306_i2c_128x64_noname_f( //U8G2_SSD1306_128X64_NONAME_F_SW_I2C
 		&u8g2,
 		U8G2_R0,
 		//u8x8_byte_sw_i2c,
